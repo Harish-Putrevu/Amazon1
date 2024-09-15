@@ -1,15 +1,14 @@
 # Amazon Clone
 
 
-This is a clone of Amazon web application, with improved UI and all major functionalities such as adding products to wishlist, browsing different product categories, adding products to cart, managing shipping details, and payment options. The project is responsive and can be used on any device.
+This is a clone of Amazon with features such as browsing different product categories, adding products to cart and payment options. The project is responsive.
 
-**Demo Video**
-
+Demo video-
 
 https://user-images.githubusercontent.com/81776711/224985061-d7012611-8997-4a6b-ba7c-a4fc7f2c9954.mp4
 
 
-# Technologies Used
+Using-
 
 
 ReactJS
@@ -72,14 +71,6 @@ Run `npm start` to start the application
 **Wishlist page**
 
 ![image](https://user-images.githubusercontent.com/81776711/224613383-6fed93fe-c269-4aba-888c-d0a3cf802f0a.png)
-
-
-**Product page**
-
-![image](https://user-images.githubusercontent.com/81776711/224615004-fe0bf691-333f-40f7-90ef-c4f26ebe5395.png)
-
-![image](https://user-images.githubusercontent.com/81776711/224615047-2b015e56-ebdb-44e1-a29d-6fd382b40981.png)
-
 
 **Cart page**
 
