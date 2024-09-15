@@ -65,7 +65,7 @@ Run `npm start` to start the application
 
 **Home page**
 
-![image](https://user-images.githubusercontent.com/81776711/224613299-feb71146-bec7-4fd2-948b-e776d9701b47.png)
+![image]([https://user-images.githubusercontent.com/81776711/224613299-feb71146-bec7-4fd2-948b-e776d9701b47.png](https://github.com/Harish-Putrevu/Amazon1/blob/main/Home.png))
 
 
 **Wishlist page**
